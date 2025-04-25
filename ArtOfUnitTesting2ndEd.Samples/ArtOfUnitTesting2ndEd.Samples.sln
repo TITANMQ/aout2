@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter1.ConsoleApp", "Chap
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter2_files", "Chapter2_files", "{DBC1F3A7-3453-4686-9012-BAC0B9EFA479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn", "LogAn\LogAn.csproj", "{BA5CBC16-CF26-4E06-B31F-A30F3FADDFE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogAn", "LogAn\LogAn.csproj", "{BA5CBC16-CF26-4E06-B31F-A30F3FADDFE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn.UnitTests", "LogAn.UnitTests\LogAn.UnitTests.csproj", "{EDC599EF-1FF0-4C3A-BAD1-1B5753C6CBE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogAn.UnitTests", "LogAn.UnitTests\LogAn.UnitTests.csproj", "{EDC599EF-1FF0-4C3A-BAD1-1B5753C6CBE6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter5.LogAn", "Chapter5.LogAn\Chapter5.LogAn.csproj", "{5C882E57-AF0A-45B1-9625-C457FD2BD177}"
 EndProject
